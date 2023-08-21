@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UndekotiRowan/REACT-CALCULATOR.git/static/css/main.8d169c2e.css",
+    "main.js": "/UndekotiRowan/REACT-CALCULATOR.git/static/js/main.5bd75d79.js",
+    "static/js/787.a174f9e5.chunk.js": "/UndekotiRowan/REACT-CALCULATOR.git/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/UndekotiRowan/REACT-CALCULATOR.git/index.html",
+    "main.8d169c2e.css.map": "/UndekotiRowan/REACT-CALCULATOR.git/static/css/main.8d169c2e.css.map",
+    "main.5bd75d79.js.map": "/UndekotiRowan/REACT-CALCULATOR.git/static/js/main.5bd75d79.js.map",
+    "787.a174f9e5.chunk.js.map": "/UndekotiRowan/REACT-CALCULATOR.git/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d169c2e.css",
+    "static/js/main.5bd75d79.js"
+  ]
+}
