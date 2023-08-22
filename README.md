@@ -3,6 +3,38 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+# Calculator App
+
+Calculator App is a simple web application that provides basic calculator functionality for performing arithmetic calculations.
+
+## Table of Contents
+
+- [Features](#features)
+- [Usage](#usage)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Perform basic arithmetic calculations (addition, subtraction, multiplication, division) using a user-friendly interface.
+- Input and display the calculation on the screen.
+- Clear the calculation and start anew.
+
+## Usage
+
+1. Enter the numeric values and operators using the buttons provided on the calculator interface.
+2. Click the "Clear" button to reset the input and start a new calculation.
+3. Click the "=" button to calculate and display the result of the entered arithmetic expression.
+
+## Getting Started
+
+Follow these steps to get started with the Calculator App:
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/your-username/calculator-app.git
 
 In the project directory, you can run:
 
